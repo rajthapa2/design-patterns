@@ -33,6 +33,7 @@ namespace Domain
         public Address Origin { get; set; }
     }
 
+    // Problem
     //    public class ShippingCostCalculatorService
     //    {
     //        public double CalculateShippingCost(Order order)
